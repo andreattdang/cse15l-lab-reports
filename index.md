@@ -8,7 +8,7 @@ she also likes:
 * lemonade
 * tomatoes
 
-though she hates:
+though she hates >:(
 1. celery
 2. spicy food
 3. more celery
