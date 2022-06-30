@@ -10,7 +10,7 @@ she also likes:
 
 though she hates >:(
 1. celery
-2. spicy food
+2. spicy food...
 3. more celery
 
 here is a spiral galaxy:
