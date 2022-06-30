@@ -14,10 +14,10 @@ though she hates:
 3. more celery
 
 here is a spiral galaxy:
-![Image] (https://www.eso.org/public/archives/print_posters/screen/print_poster_0051.jpg)
+![Image](https://www.eso.org/public/archives/print_posters/screen/print_poster_0051.jpg)
 
 but this is a link:
-[Link] (https://en.wikipedia.org/wiki/Spiral_galaxy)
+[Link](https://en.wikipedia.org/wiki/Spiral_galaxy)
 
 `pretend this is some inline code` bloop bloop
 
